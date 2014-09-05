@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name    = 'esnext'
-  s.version = '0.10.0'
+  s.version = '0.10.1'
 
   s.homepage    = "https://github.com/esnext/ruby-esnext"
   s.summary     = "esnext compiler for Ruby"
